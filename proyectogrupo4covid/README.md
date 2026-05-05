@@ -1,5 +1,3 @@
-# 🦠 COVID-19 Tracker — Dashboard de Gestión de Pandemias
-
 Bienvenida al equipo de desarrollo! 👋 Este README explica cómo trabajar en el repositorio y cómo gestionar las tareas del proyecto usando GitHub Projects. Léelo con calma antes de empezar.
 
 ---
@@ -99,3 +97,6 @@ covid-tracker/
 | `develop` | Rama de integración. **Tampoco se sube directamente.** |
 | `tu-rama` | Tu rama personal según la tarea. **Aquí es donde tú trabajas.** |
 ... (336 líneas restantes)
+
+message.txt
+16 KB

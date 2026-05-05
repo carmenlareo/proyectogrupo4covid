@@ -1,0 +1,30 @@
+:root {
+  --primary-blue: #2D3E8E;
+  --accent-purple: #4B59F7;
+  --aqua-clean: #00D2D3;
+  --warning-coral: #FF6B6B;
+  --bg-light: #F8F9FD;
+
+  /* Colores de datos COVID */
+  --color-cases: #FF3131;
+  --color-active: #FF6B35;
+  --color-recovered: #22B573;
+  --color-deaths: #2D3E8E;
+  --color-deaths-red: #E53535;
+  --color-cases-blue: #1E3A8A;
+  --color-new: #FF6B00;
+
+  /* Fondos de cards del sidebar */
+  --bg-card-total: #FFF0F0;
+  --bg-card-active: #FFF5EB;
+  --bg-card-recovered: #E8F8EF;
+  --bg-card-deaths: #F0F0F5;
+
+  /* Neutros */
+  --white: #FFFFFF;
+  --text-primary: #1A1A2E;
+  --text-secondary: #6B7280;
+  --border-color: #E5E7EB;
+}
+
+}
